@@ -5,7 +5,12 @@
   "repository": "https://github.com/nomco2/Hand-on-koa-realworld.git",
   "author": "김성훈 <nomco215@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/bin/server"
+  },
   "dependencies": {
+    "config": "^3.2.2",
+    "dotenv": "^8.1.0",
     "koa": "^2.8.1"
   }
 }
