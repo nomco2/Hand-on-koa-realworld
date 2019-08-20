@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nomco2/Hand-on-koa-realworld.git",
+  "author": "김성훈 <nomco215@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
